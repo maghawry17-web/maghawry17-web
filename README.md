@@ -15,6 +15,7 @@ I turn raw business data into clear summaries and decisions. I enjoy organizing 
 | Project | Tools | What it shows |
 |---|---|---|
 | [Sales Analysis by Country, Item and Color](https://github.com/maghawry17-web/Sales-Analysis) | Excel PivotTables | 14.47M in sales across 5 countries; Saudi Arabia and Syria generate 58.6% of sales |
+| [Sales Analysis by Territory and Year](https://github.com/maghawry17-web/Sales-Territory-Analysis) | Excel Power Query, Power Pivot | 35.9M in total due across 8 territories; Canada and Northwest bring in 58% |
 | More coming soon | Excel / Power BI | Power BI dashboard in progress |
 
 ## 📫 Contact
